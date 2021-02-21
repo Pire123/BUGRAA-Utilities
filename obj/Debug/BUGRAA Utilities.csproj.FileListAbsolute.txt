@@ -1,0 +1,8 @@
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\bin\Debug\BUGRAA Utilities.dll
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\bin\Debug\BUGRAA Utilities.pdb
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\obj\Debug\BUGRAA Utilities.csprojAssemblyReference.cache
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\obj\Debug\BUGRAA_Utilities.Properties.Resources.resources
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\obj\Debug\BUGRAA Utilities.csproj.GenerateResource.cache
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\obj\Debug\BUGRAA Utilities.csproj.CoreCompileInputs.cache
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\obj\Debug\BUGRAA Utilities.dll
+C:\Users\gigabyte\source\repos\BUGRAA Utilities\obj\Debug\BUGRAA Utilities.pdb
